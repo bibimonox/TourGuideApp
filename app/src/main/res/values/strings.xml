@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="ankara">Ankara</string>
+    <string name="istanbul_restaurant">Istanbul Restaurant</string>
+    <string name="ankara_restaurant">Ankara Restaurant</string>
+
+    <!--Istanbul Restaurants Names-->
+    <string name="saray_erzurum">Saray Erzurum Cağ Kebabı</string>
+    <string name="emin_baba">Emin Baba Dürüm House</string>
+    <string name="kolcuoglu_restorant">Şenol Kolcuoğlu Restaurant</string>
+    <string name="oz_kilis">Öz Kilis Kebap ve Lahmacun</string>
+    <string name="develi">Develi Restaurant Samatya</string>
+    <string name="karadeniz_pide"> Karadeniz Pide ve Kebap</string>
+    <string name="orjinal_bafra_pide">Orjinal Bafra Pide</string>
+
+    <!--Ankara Restaurants Names-->
+
+    <string name="masabasi_kebapcisi">Masabaşı Kebapçısı</string>
+    <string name="gunaydin_kebap_restaurant">Günaydın Kebap Restaurant</string>
+    <string name="muslum_kebap">Muslum Kebap</string>
+    <string name="duveroglu">Düveroğlu</string>
+    <string name="nusr_et">Nusr-Et</string>
+    <string name="amarillo_restaurant_and_bar">Amarillo Restaurant And Bar </string>
+    <string name="adana_sofrasi">Adana Sofrası </string>
+
+
+</resources>

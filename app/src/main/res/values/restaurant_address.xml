@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Istanbul Restaurants Address-->
+    <string name="saray_erzurum_address">Address : Yenişehir Mah. Mustafa Akyol Cad. Grup Center İş Merkezi K:2 No:97 Pendik-İstanbul</string>
+    <string name="emin_baba_address">Address: Ortaklar Cad. Emiroğlu Sok. No: 38 Barlas Apt. Mecidiyeköy Mh. Şişli İstanbul</string>
+    <string name="kolcuoglu_restaurant_address">Address: Küçükyalı Sahil yolu Çınar Mah. Turgut Özal Bulvarı No:75 Küçükyalı/Maltepe</string>
+    <string name="oz_kilis_address">Address: Akşemseddin Mh., 34091 Fatih/İstanbul</string>
+    <string name="develi_address">Address: Koca Mustafapaşa Mahallesi, Gümüş Yüksük Sokak, No 7, Samatya, Fatih</string>
+    <string name="karadeniz_pide_address"> Address: Hacıkadın Mahallesi, Katip Çelebi Caddesi, No 23/B, Fatih, İstanbul</string>
+    <string name="orjinal_bafra_pide_address">Address: Cevizli Mahallesi, Zuhal Caddesi, No 75/1, Maltepe, İstanbul</string>
+
+    <!--Ankara Restaurants Address-->
+    <string name="masabasi_kebapcisi_address">Address : Ziyabey Cad. No:35/5/-6 | Çankaya, Ankara, Türkiye</string>
+    <string name="gunaydin_kebap_restaurant_address">Address : Gaziosmanpaşa,Attar Sk. No:6 | Çankaya, Ankara 06700, Türkiye</string>
+    <string name="muslum_kebap_address">Address : Ugur Mumcu Caddesi No:96B | Cankaya, Ankara, Ankara, Türkiye</string>
+    <string name="duveroglu_address">Address : Maltepe Mahallesi, Gençlik Caddesi No: 28 | Çankaya, Ankara, Türkiye</string>
+    <string name="nusr_et_address">Address : Gaziosmanpaşa Mah. Şehit Ömer Sipahioğlu Sok. No: 8 | Çankaya, Ankara, Türkiye</string>
+    <string name="amarillo_restaurant_and_bar_address">Address : Kizkulesi Sok. No:20 D:5/-6 | Gaziosmanpasa Gop, Cankaya, Ankara, Türkiye</string>
+    <string name="adana_sofrasi_address">Address : A713. Sok. No:6 Yıldız, Ankara, Türkiye</string>
+
+</resources>
